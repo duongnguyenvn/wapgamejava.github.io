@@ -1,0 +1,9 @@
+Thông tin bảo mật của WAPGameJava:
+- Công cụ đã bị chặn:
+ + M2
+ + Ctrl + C
+ + Ctrl + S
+ + Ctrl + U
+ + F12
+
+(Chỉ có tác dụng cho .html, .txt không hỗ trợ)
